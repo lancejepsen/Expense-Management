@@ -61,11 +61,11 @@ Run MySQL server to get your database info req below.
 
 Create a `.env` file in the project root:
 
-DB_HOST=localhost
-DB_USER=[YOUR DB USER ID]
-DB_PASSWORD=[YOUR DATABASE PASSWORD]
-DB_NAME=[YOUR DATABASE NAME]
-DB_PORT=[YOUR DATABASE PORT NUMBER]
+DB_HOST=localhost  
+DB_USER=[YOUR DB USER ID]  
+DB_PASSWORD=[YOUR DATABASE PASSWORD]  
+DB_NAME=[YOUR DATABASE NAME]  
+DB_PORT=[YOUR DATABASE PORT NUMBER]  
 
 
 **Never commit `.env` to GitHub** — the `.gitignore` already prevents this.
