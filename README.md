@@ -28,30 +28,30 @@ A modern, full-stack expense management system built with:
 - Live API integration
 
 ## 📁 Project Structure
-your_project/
-│
-├── main.py
-├── .env
-├── requirements.txt
-│
-├── routers/
-│ ├── expenses.py
-│ └── analytics.py
-│
-├── db/
-│ ├── connection.py
-│ └── queries.py
-│
-├── schemas/
-│ ├── expense.py
-│ ├── analytics.py
-│ └── monthly.py
-│
-├── utils/
-│ └── logger.py
-│
-└── frontend/
-└── app.py
+your_project/  
+│  
+├── main.py  
+├── .env  
+├── requirements.txt  
+│  
+├── routers/  
+│ ├── expenses.py  
+│ └── analytics.py  
+│  
+├── db/  
+│ ├── connection.py  
+│ └── queries.py  
+│  
+├── schemas/  
+│ ├── expense.py  
+│ ├── analytics.py  
+│ └── monthly.py  
+│  
+├── utils/  
+│ └── logger.py  
+│  
+└── frontend/  
+└── app.py  
 
 ---
 
